@@ -6,7 +6,7 @@ This game is made as a study in game development, presented by Agate Academy 202
 ![image](https://user-images.githubusercontent.com/89561572/134141934-8ef8973e-bf32-4be1-b292-973d620a8f54.png)
 
 ## How To Run
-There is no need to install the game. The build version of the game is in the build folder. All you have to do is just run the .exe file, setup your prefered resolution size, and the game runs right away it.
+There is no need to install the game. The build version of the game is in the build file. All you have to do is just run the .exe file, setup your prefered resolution size, and the game runs right away it.
 
 ## Features
 * This is a single player game.
